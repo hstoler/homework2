@@ -1,6 +1,7 @@
 body {
+    line-height:2;
     font-family: "Lucida Grande", sans-serif;
-    color: rgb(255, 255, 255);
+    color: #FFFFFF;
     background-color: #000000;
 }
 
@@ -28,10 +29,7 @@ img {
 
 div {
     min-height: 150px;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
+    padding: 25px;
 }
 
 #red {
@@ -47,6 +45,7 @@ div {
 #yellow {
     background-color: #FFFF00;
     text-align: right;
+    text-shadow: 5px 5px 2px #C7E2C7
 }
 
 #green {
