@@ -1,7 +1,7 @@
 body {
-    font-family: "Lucida Console", sans-serif;
+    font-family: "Lucida Grande", sans-serif;
     color: rgb(255, 255, 255);
-    background-color: rgb(0,0,0);
+    background-color: #000000;
 }
 
 h1 {
@@ -34,23 +34,23 @@ div {
     padding-left: 25px;
 }
 
-#reddiv {
-    background-color: rgb(255,0,0);
+#red {
+    background-color: #FF0000;
     text-align: right;
 }
 
-#bluediv {
-    background-color: rgb(0, 0, 255);
+#blue {
+    background-color: #0000FF;
     text-align: left;
 }
 
-#yellowdiv {
-    background-color: rgb(255,255,0);
+#yellow {
+    background-color: #FFFF00;
     text-align: right;
 }
 
-#greendiv {
-    background-color: rgb(0, 255, 0);
+#green {
+    background-color: #008000;
     text-align: left;
 }
 
